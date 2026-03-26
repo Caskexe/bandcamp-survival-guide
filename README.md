@@ -1,4 +1,3 @@
-
 # 🎵 Bandcamp Survival Guide
 Some practical, no-nonsense reference materials and better help docs for understanding and using Bandcamp.
 This repo is not in any way related to, or affiliated with Bandcamp.
